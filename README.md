@@ -8,7 +8,7 @@ By Kexuan Shi, Xingyu Zhou, Shuhang Gu.
 
 
 ## Citation
-@misc{shi2024improved,
+    @misc{shi2024improved,
       title={Improved Implicity Neural Representation with Fourier Bases Reparameterized Training}, 
       author={Kexuan Shi and Xingyu Zhou and Shuhang Gu},
       year={2024},

@@ -1,4 +1,4 @@
-# Improved-Implicity-Neural-Representation-with-Fourier-Bases-Reparameterized-Training
+# FR-INR
 This repository is the official PyTorch implementation of "Improved-Implicity-Neural-Representation-with-Fourier-Bases-Reparameterized-Training"
 ([arxiv](https://arxiv.org/pdf/2401.07402.pdf))
 

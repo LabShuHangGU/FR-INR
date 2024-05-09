@@ -1,0 +1,156 @@
+absl-py==1.4.0
+addict==2.4.0
+ansi2html==1.8.0
+appdirs==1.4.4
+asttokens==2.4.1
+attrs==23.1.0
+blinker==1.7.0
+Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
+cachetools==5.3.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.7
+cmake==3.27.6
+comm==0.2.0
+ConfigArgParse==1.7
+contourpy @ file:///opt/conda/conda-bld/contourpy_1663827406301/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+dash==2.14.1
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+dearpygui==1.10.1
+decorator==5.1.1
+docker-pycreds==0.4.0
+exceptiongroup==1.1.3
+executing==2.0.1
+fastjsonschema==2.19.0
+filelock==3.12.4
+Flask==3.0.0
+fonttools==4.25.0
+functorch==2.0.0
+gitdb==4.0.11
+GitPython==3.1.43
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+grpcio==1.58.0
+idna==3.4
+imageio==2.31.3
+importlib-metadata==6.8.0
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1691408075105/work
+ipython==8.17.2
+ipywidgets==8.1.1
+itsdangerous==2.1.2
+jedi==0.19.1
+Jinja2==3.1.2
+joblib==1.3.2
+jsonschema==4.19.2
+jsonschema-specifications==2023.11.1
+jupyter_core==5.5.0
+jupyterlab-widgets==3.0.9
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+lazy_loader==0.3
+lightning-utilities==0.10.0
+lit==17.0.1
+lpips==0.1.4
+Markdown==3.4.4
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib @ file:///croot/matplotlib-suite_1679593461707/work
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.3.0
+nbformat==5.7.0
+nest-asyncio==1.5.8
+networkx==3.1
+ninja==1.11.1.1
+numexpr @ file:///croot/numexpr_1683221822650/work
+numpy @ file:///croot/numpy_and_numpy_base_1691091611330/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+oauthlib==3.2.2
+open3d==0.17.0
+opencv-python==4.8.1.78
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+pandas==1.4.4
+parso==0.8.3
+pexpect==4.8.0
+Pillow==9.4.0
+platformdirs==4.0.0
+plotly==5.18.0
+ply==3.11
+prompt-toolkit==3.0.41
+protobuf==4.24.3
+psutil==5.9.8
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycollada==0.7.2
+Pygments==2.16.1
+PyMCubes==0.1.2
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PyQt5-sip==12.11.0
+pyquaternion==0.9.9
+pysdf==0.1.9
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytorch-msssim==1.0.0
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
+PyWavelets==1.4.1
+PyYAML==6.0.1
+referencing==0.31.0
+requests==2.31.0
+requests-oauthlib==1.3.1
+retrying==1.3.4
+rich==13.7.0
+rpds-py==0.12.0
+rsa==4.9
+scikit-image==0.21.0
+scikit-learn==1.3.2
+scipy==1.11.2
+seaborn==0.13.2
+sentry-sdk==1.45.0
+setproctitle==1.3.3
+sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.1
+stack-data==0.6.3
+sympy==1.12
+tenacity==8.2.3
+tensorboard==2.14.0
+tensorboard-data-server==0.7.1
+tensorboardX==2.6.2.2
+threadpoolctl==3.2.0
+tifffile==2023.8.30
+tinycudann==1.7
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+torch==2.0.1
+torch-ema==0.3
+torchaudio==0.10.1
+torchmetrics==1.2.1
+torchvision==0.11.2
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1648827245914/work
+tqdm==4.66.1
+traitlets==5.13.0
+trimesh==4.0.8
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
+urllib3==1.26.16
+wandb==0.16.6
+wcwidth==0.2.10
+Werkzeug==3.0.1
+widgetsnbextension==4.0.9
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1689374466814/work

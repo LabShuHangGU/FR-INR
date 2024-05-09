@@ -17,7 +17,7 @@ cd FR-INR
 pip install -r requirements.txt
 ```
 
-## 1d function fitting
+## 1D Function fitting
 Firstly, running ```1d_function_fitting.py``` to get the fitting results and the empirical Neural Tangent Kernel of Fourier reparameterziation training in 1d function task. Then, running ```1d_relative_error_in_frequency.py``` to analyze the approximation results in the frequency domain.
 ```bash
 python 1d_function_fitting.py
@@ -37,14 +37,14 @@ python 1d_relative_error_in_frequency.py
 
 
 
-## 2d Image fitting
+## 2D Image fitting
 Using ```2d_image_fitting.py``` to get the fitting results in Image regression task.
 ```bash
 python 2d_image_fitting.py
 ```
 > <img  src="figures/Koda_5.png">
 
-## 3d occupance
+## 3D Occupance
 Using ```3D_occupance.py``` to get the results of Thai and Dragon Statue. Before running, you have to unzip the .mat file.
 ```bash
 python 3D_occupance.py

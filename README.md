@@ -51,7 +51,7 @@ python 3D_occupance.py
 ```
 
 ## Neural rendering
-We provide the core code file for DVGO and InstantNGP. The DVGO is recommended to evalute our FR as its official implementation and fast training.
+We provide the core code file ```dvgo.py``` and ```InstantNGP.py```  for DVGO and InstantNGP. The DVGO is recommended to evalute our FR as its official implementation and fast training.
 
 ## Citation
     @misc{shi2024improved,
@@ -60,5 +60,4 @@ We provide the core code file for DVGO and InstantNGP. The DVGO is recommended t
       year={2024},
       eprint={2401.07402},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+      primaryClass={cs.CV}}

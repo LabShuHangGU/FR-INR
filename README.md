@@ -23,16 +23,11 @@ Firstly, running ```1d_function_fitting.py``` to get the fitting results and the
 python 1d_function_fitting.py
 python 1d_relative_error_in_frequency.py
 ```
-<table style="width:100%">
-  <tr>
-    <td style="width:25%"><img src="relu_ur_4.png" alt="Image 1"></td>
-    <td style="width:25%"><img src="relu_fr_4.png" alt="Image 2"></td>
-  </tr>
-  <tr>
-    <td style="width:25%"><img src="sin_ur_4.png" alt="Image 3"></td>
-    <td style="width:25%"><img src="sin_fr_4.png" alt="Image 4"></td>
-  </tr>
-</table>
+<img src="relu_ur_4.png" alt="Image 1" style="width:25%; float:left; margin-right:1%;">
+<img src="relu_fr_4.png" alt="Image 2" style="width:25%; float:left; margin-right:1%;">
+<img src="sin_ur_4.png" alt="Image 3" style="width:25%; float:left; margin-right:1%;">
+<img src="sin_fr_4.png" alt="Image 4" style="width:25%; float:left; margin-right:1%;">
+
 
 
 ## 2d Image fitting

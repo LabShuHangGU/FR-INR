@@ -42,7 +42,7 @@ Using ```2d_image_fitting.py``` to get the fitting results in Image regression t
 ```bash
 python 2d_image_fitting.py
 ```
-> <img  src="figures/koda_5.png">
+> <img  src="figures/Koda_5.png">
 
 ## 3d occupance
 Using ```3D_occupance.py``` to get the results of Thai and Dragon Statue.

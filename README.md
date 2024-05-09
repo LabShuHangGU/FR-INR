@@ -60,4 +60,5 @@ We provide the core code file ```dvgo.py``` and ```InstantNGP.py```  for DVGO an
       year={2024},
       eprint={2401.07402},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}}
+      primaryClass={cs.CV}
+      }

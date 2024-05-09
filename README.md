@@ -9,32 +9,32 @@ By Kexuan Shi, Xingyu Zhou, Shuhang Gu.
 > <br/><br/>
 
 ## Environment
-'''bash
+```bash
 conda create -n FR-INR python=3.8
 conda activate FR-INR
 
 cd FR-INR
 pip install -r requirements.txt
-'''
+```
 
 ## 1d function fitting
-Firstly, running '''1d_function_fitting.py''' to get the fitting results and the empirical Neural Tangent Kernel of Fourier reparameterziation training in 1d function task. Then, running '''1d_relative_error_in_frequency.py''' to analyze the approximation results in the frequency domain.
-'''bash
+Firstly, running ```1d_function_fitting.py``` to get the fitting results and the empirical Neural Tangent Kernel of Fourier reparameterziation training in 1d function task. Then, running ```1d_relative_error_in_frequency.py``` to analyze the approximation results in the frequency domain.
+```bash
 python 1d_function_fitting.py
 python 1d_relative_error_in_frequency.py
-'''
+```
 
 ## 2d Image fitting
-Using '''2d_image_fitting.py''' to get the fitting results in Image regression task.
-'''bash
+Using ```2d_image_fitting.py``` to get the fitting results in Image regression task.
+```bash
 python 2d_image_fitting.py
-'''
+```
 
 ## 3d occupance
-Using '''3D_occupance.py''' to get the results of Thai and Dragon Statue.
-'''bash
+Using ```3D_occupance.py``` to get the results of Thai and Dragon Statue.
+```bash
 python 3D_occupance.py
-'''
+```
 
 ## Neural rendering
 We provide the core code file for DVGO and InstantNGP. The DVGO is recommended to evalute our FR as its official implementation and fast training.

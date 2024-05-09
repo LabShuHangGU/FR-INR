@@ -45,7 +45,7 @@ python 2d_image_fitting.py
 > <img  src="figures/Koda_5.png">
 
 ## 3d occupance
-Using ```3D_occupance.py``` to get the results of Thai and Dragon Statue.
+Using ```3D_occupance.py``` to get the results of Thai and Dragon Statue. Before running, you have to unzip the .mat file.
 ```bash
 python 3D_occupance.py
 ```

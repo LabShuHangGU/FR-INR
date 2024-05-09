@@ -23,6 +23,16 @@ Firstly, running ```1d_function_fitting.py``` to get the fitting results and the
 python 1d_function_fitting.py
 python 1d_relative_error_in_frequency.py
 ```
+<table>
+  <tr>
+    <td><img src="relu_ur_4.png" alt="Image 1"></td>
+    <td><img src="relu_fr_4.png" alt="Image 2"></td>
+  </tr>
+  <tr>
+    <td><img src="sin_ur_4.png" alt="Image 3"></td>
+    <td><img src="sin_fr_4.png" alt="Image 4"></td>
+  </tr>
+</table>
 
 ## 2d Image fitting
 Using ```2d_image_fitting.py``` to get the fitting results in Image regression task.

@@ -130,6 +130,8 @@ if __name__ == '__main__':
     best_results=best_results.reshape(H,W,T).detach().cpu().numpy()
     io.savemat('results/%s.mat'%(mode))
     print('IoU: ', get_IoU(best_results, data, mcubes_thres))
+    savename = 'results/%s.dae'%('Thai_of_sin_fr')
+    march_and_save(best_results, mcubes_thres, savename, True)
 
 
 

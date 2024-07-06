@@ -54,11 +54,10 @@ python 3D_occupance.py
 We provide the core code file ```dvgo.py``` and ```InstantNGP.py```  for DVGO and InstantNGP. The DVGO is recommended to evalute our FR as its official implementation and fast training.
 
 ## Citation
-    @misc{shi2024improved,
-      title={Improved Implicit Neural Representation with Fourier Reparameterized Training}, 
-      author={Kexuan Shi and Xingyu Zhou and Shuhang Gu},
-      year={2024},
-      eprint={2401.07402},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+    @inproceedings{shi2024improved,
+      title={Improved Implicit Neural Representation with Fourier Reparameterized Training},
+      author={Shi, Kexuan and Zhou, Xingyu and Gu, Shuhang},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      pages={25985--25994},
+      year={2024}
     }

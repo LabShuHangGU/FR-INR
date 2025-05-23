@@ -3,6 +3,18 @@ This repository is the official PyTorch implementation of "Improved Implicit Neu
 By Kexuan Shi, Xingyu Zhou, Shuhang Gu.
 ([arxiv](https://arxiv.org/pdf/2401.07402.pdf)) 
 
+---
+🚀 **New! Explore our follow-up ICML'25 work [IGA-INR (Inductive Gradient Adjustment)](https://github.com/LabShuHangGU/IGA-INR) — Released in May 2025**
+
+Following the success of training dyanmics method, we present **IGA-INR**, a theory-grounded and practical approach that tackles the same challenge — spectral bias — from a new angle.  
+Instead of modifying the network structure, IGA-INR introduces a lightweight gradient adjustment strategy that reshapes the training dynamics directly in the loss landscape. It is:
+- 🎯 **Theory-grounded** via NTK analysis and inductive generalization,
+- 🧠 **Architecture-agnostic**, compatible with any INR backbone,
+- 💡 **Simple to use**, adding minimal code with practical GPU memory usage.
+
+If you're interested in improving the accuracy of INRs without changing your model design, **[check out IGA-INR](https://github.com/LabShuHangGU/IGA-INR)**.
+
+---
 💡 Have ideas or questions about FR-INR? Let's chat! 🧠⚡  
 📬 Reach me at: [kexuanshi712@gmail.com](mailto:your_email@example.com)  
 
